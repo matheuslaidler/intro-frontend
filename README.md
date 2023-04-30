@@ -1,4 +1,4 @@
-# Página de Introdução ao Desenvolvimento Front End [HTML, CSS, JAVASCRIPT]
+# Página de Introdução ao Desenvolvimento Front End
  -  Exemplo inicial de página frontend para conteúdo educacional.
  -  Meu artigo de aula sobre Front-End - onde exemplifico com este codigo:
 
