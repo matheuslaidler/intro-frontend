@@ -1,4 +1,4 @@
-# Página de Introdução ao Desenvolvimento Front End
+# Página de Introdução ao Desenvolvimento Front End - Hello World in User Changing Colors!
  -  Exemplo inicial de página frontend para conteúdo educacional.
  -  Meu artigo de aula sobre Front-End - onde exemplifico com este codigo:
 
