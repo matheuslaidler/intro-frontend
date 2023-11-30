@@ -1,14 +1,15 @@
-# Página de Introdução ao Desenvolvimento Front End - Hello World in User Changing Colors!
+# Página de Introdução ao Desenvolvimento Front End
+### Hello World with changing Color System! - Introdução Prática;
  -  Exemplo inicial de página frontend para conteúdo educacional.
  -  Meu artigo de aula sobre Front-End - onde exemplifico com este codigo:
 
 https://matheuslaidler.gitbook.io/road2tech/desenvolvimento/front-end
 
-## Meu artigo focado em html;
+## Primeira vista ao html - Introdução teórica;
 https://matheuslaidler.gitbook.io/road2tech/desenvolvimento/front-end/html
 
-## Meu artigo focado em css;
+## Primeira vista ao css - Introdução teórica;
 https://matheuslaidler.gitbook.io/road2tech/desenvolvimento/front-end/css
 
-## Meu artigo focado em javascript;
+## Primeira vista ao javascript - Introdução teórica;
 https://matheuslaidler.gitbook.io/road2tech/desenvolvimento/front-end/javascript
